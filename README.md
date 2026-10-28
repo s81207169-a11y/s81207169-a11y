@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sanjit Mandal 👋</h1>
+<h3 align="center">AI Security Engineer · Ethical Hacker · Penetration Tester · Python Developer</h3>
 
-<!--
-**s81207169-a11y/s81207169-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-AI%20Security%20Engineer-4b3fe0?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Experience-3%20years-151a2d?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Based%20in-Nepal-dc143c?style=for-the-badge" alt="Location" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About me
+
+- 🔐 **AI Security Engineer at Waft Tech**, securing AI and LLM-powered systems
+- 🎯 About **3 years** in ethical hacking, penetration testing and AI security engineering
+- 🏰 Hands-on with **Active Directory attacks**: enumeration, credential attacks, privilege escalation and lateral movement
+- 🐍 I write **Python** for security tooling and automation
+- 🎓 Bachelor's degree · from Siraha, Nepal
+- 🚀 Goal: build a company that makes AI safe to use at scale
+
+## 🧰 What I do
+
+| Area | Focus |
+| --- | --- |
+| **AI / LLM security** | Prompt injection, jailbreak testing, data leakage, secure AI integration |
+| **Penetration testing** | Web apps, networks, mobile apps (APK review) |
+| **Active Directory** | Attack-path analysis, Kerberos attacks, privilege escalation |
+| **Secure code review** | Leaked secrets, unsafe configs, risky dependencies |
+| **Automation** | Python scripts and tools for recon and reporting |
+
+## ⚙️ Tools & tech
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/BloodHound-B30000?style=flat-square" alt="BloodHound" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
+
+## 📌 Projects
+
+| Project | What it is |
+| --- | --- |
+| [ae-music](https://github.com/s81207169-a11y/ae-music) | Android music app built with Kotlin and Jetpack Compose (in progress) |
+
+## 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s81207169-a11y&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s81207169-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+## 🤝 Let's connect
+
+Open to security research collaboration, pentest engagements and AI security work.
+
+> ⚠️ All my security testing is done ethically, on systems I own or am authorized to test.
