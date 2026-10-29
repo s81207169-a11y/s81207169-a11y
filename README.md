@@ -45,9 +45,17 @@
 
 ## 📌 Projects
 
-| Project | What it is |
-| --- | --- |
-| [ae-music](https://github.com/s81207169-a11y/ae-music) | Android music app built with Kotlin and Jetpack Compose (in progress) |
+### 🛡️ [VulnAgent](https://github.com/s81207169-a11y/vulnagent): break an AI app, then harden it
+
+A deliberately vulnerable AI application across four layers (**LLM chatbot, MCP server, autonomous agent, AI-generated API**), each with a hardened twin. An 11-attack suite runs on every push: every attack compromises the vulnerable version and is blocked by the hardened one.
+
+- **Prompt injection**, direct and indirect, including secret exfiltration by an agent reading a poisoned invoice
+- **MCP tool poisoning** and confused-deputy attacks, plus a static scanner that flags poisoned tool descriptions
+- **Agent guardrails** that hold even when the model obeys the attacker: tool allowlists, human approval, path confinement, loop limits
+- **Vibe-code review**: SQLi, `eval()` RCE, missing auth, hard-coded secrets
+- Findings mapped to **OWASP LLM Top 10** and **MITRE ATLAS**
+
+`Python` · `MCP` · `Flask` · `pytest` · `Ollama / OpenAI-compatible APIs`
 
 ## 📊 GitHub stats
 
@@ -59,5 +67,9 @@
 ## 🤝 Let's connect
 
 Open to security research collaboration, pentest engagements and AI security work.
+
+<p>
+  <a href="https://www.linkedin.com/in/sanjit-mandal-2b1621413"><img src="https://img.shields.io/badge/LinkedIn-Sanjit%20Mandal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 > ⚠️ All my security testing is done ethically, on systems I own or am authorized to test.
