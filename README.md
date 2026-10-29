@@ -57,6 +57,18 @@ A deliberately vulnerable AI application across four layers (**LLM chatbot, MCP 
 
 `Python` · `MCP` · `Flask` · `pytest` · `Ollama / OpenAI-compatible APIs`
 
+### 🛰️ [mcp-sentinel](https://github.com/s81207169-a11y/mcp-sentinel): security scanner for MCP servers
+
+Connects to MCP servers the way an AI client does, pulls every tool definition, and flags what the model would silently trust. Installable CLI with **18 rules** and CI-ready output.
+
+- **Tool poisoning**: hidden instruction blocks, concealment, overrides, exfiltration wording, invisible Unicode, in descriptions *and* parameter schemas
+- **Cross-server tool shadowing** and name collisions
+- **Rug-pull detection**: a lockfile of tool hashes catches servers that change after approval
+- **Config audit**: plaintext secrets, unpinned `npx`/`uvx` packages, plain-HTTP remotes, privileged Docker
+- Console, JSON and **SARIF** output for GitHub code scanning; zero false alarms on the official GitHub MCP server
+
+`Python` · `MCP SDK` · `SARIF` · `pytest`
+
 ## 📊 GitHub stats
 
 <p>
